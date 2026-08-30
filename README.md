@@ -10,6 +10,8 @@ Este repositório contém as entregas do Checkpoint 01 da disciplina de Análise
 
 2. DesafioFinal_EnergiaONS.ipynb: análise de dados de carga elétrica verificada na região de São Paulo, obtidos em tempo real pela API pública do ONS (Operador Nacional do Sistema), referente ao período de 01/08/2025 a 07/08/2025. Inclui cálculo de indicadores estatísticos, identificação de períodos de alta demanda, comparação de critérios, visualizações gráficas e geração de relatório técnico assistido por IA (Gemini), com validação crítica dos resultados pela equipe.
 
+3. O arquivo `energydata_complete.csv` (amostra utilizada) também está disponível neste repositório para consulta.
+
 ## Fontes dos dados
 
 Appliances Energy Prediction Dataset, disponibilizado pela UCI Machine Learning Repository.
