@@ -19,7 +19,8 @@ Appliances Energy Prediction Dataset, disponibilizado pela UCI Machine Learning 
 API de Carga Verificada, disponibilizada publicamente pelo ONS (Operador Nacional do Sistema Elétrico), acessada via apicarga.ons.org.br.
 
 ## Equipe
--Eduardo Novaki Santos Coelho RM: 572649
+
+- Eduardo Novaki Santos Coelho RM: 572649
 - Gabriel dos Santos Siqueira RM: 572200
 - Pedro Andreassa Zamai RM: 569318
 - Pedro Yoshikado Garcia RM: 570449
